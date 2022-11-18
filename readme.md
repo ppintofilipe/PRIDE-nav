@@ -1,5 +1,5 @@
 # PRIDEnav
----
+
 ## About
 These are a couple of simple python scripts to help you navigate through [**PRIDE**](https://www.ebi.ac.uk/pride/) (The Proteomics Identifications Database) [1].
 
